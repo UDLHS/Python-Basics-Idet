@@ -118,3 +118,7 @@ cython_debug/
 .idea/
 
 
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
